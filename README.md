@@ -1,5 +1,5 @@
 # YK_Garbage
-Some simple dumpster system script i maked fast. I published this because i wanted to something or start somewhere.
+Some simple dumpster system script i maked fast for ESX. I published this because i wanted to something or start somewhere.
 
 Features:
 
